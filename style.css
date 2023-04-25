@@ -1,0 +1,14 @@
+#chessboard {
+    border-collapse: collapse;
+  }
+  
+  #chessboard td {
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+  }
+  
+  #chessboard td.dark {
+    background-color: gray;
+  }
+  
